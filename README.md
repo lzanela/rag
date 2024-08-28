@@ -1,2 +1,2 @@
 # rag
-RAG development for web3 querys.
+RAG development for web3 research prompts.
